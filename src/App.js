@@ -1,9 +1,5 @@
 import logo from './logo.svg';
 import './App.css';
-
-
-// My style CSS
-import "./style.css"; 
 import Layout from './BaiTapThucHanhLayout/Layout';
 
 
